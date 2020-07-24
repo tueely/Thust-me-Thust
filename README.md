@@ -1,0 +1,2 @@
+# Thust-me-Thust
+A website which I coded for Thust me Thust (hand in hand) an initiative by some Tajik Students at AKAM whose goal was to help people in Tajikistan and make a difference to the society and community, this website was made with Bootstrap and using an MIT template, the loading screen was coded by ME and the language selection interface was also coded by ME! The rest was obviously the template, although I did customise a few things and leave others the way they are, you can have a look at this in the website and the files as well.
